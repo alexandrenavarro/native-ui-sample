@@ -16,4 +16,7 @@ in $GRAALVM_HOME/bin,
     mvn client:run
  
 See https://github.com/gluonhq/client-samples/tree/master/Maven/HelloFX
-  
+
+
+TODO test jpackage from jdk 14
+
